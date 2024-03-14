@@ -1,6 +1,3 @@
 print("Hello world!")
-<<<<<<< HEAD
-print("Hello from feature")
+print("Hello once again")
 
-=======
->>>>>>> af0e42a (Initial commit)
